@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shaohua Guan"
   avatar           : "profile.png"
-  bio              : "PhD student in Theoretical Biophysics at Institute of Theoretical Physics, University of Chinese Academy of Sciences"
+  bio              : "PhD student in Theoretical Biophysics"
   location         : "Beijing, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Shaohua+Guan"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/guanphy/"
+  github           : "guanphy"
   google_plus      :
   keybase          :
   instagram        :
