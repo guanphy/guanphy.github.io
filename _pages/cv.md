@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Shandong University, 2012
+* M.S. in Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences, 2014
+* Ph.D in Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences, 2019 (expected)
 
-Work experience
+#Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -27,14 +27,6 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
