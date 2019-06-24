@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, Shandong University, 2012
-* M.S. in Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences, 2014
-* Ph.D in Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences, 2019 (expected)
+* B.S. in Physics, Shandong University, China, 2012
+* M.S. in Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences, China, 2014
+    + Advisor: Prof. Hualin Shi
+* Ph.D in Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences, China, 2019 (expected)
+    + Advisor: Prof. Hualin Shi
+
+
 
 Work experience
 ======
@@ -46,6 +50,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Programming Languages: MATLAB, Fortran, Python
