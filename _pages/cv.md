@@ -15,7 +15,7 @@ Education
 * M.S. in Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences, 2014
 * Ph.D in Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences, 2019 (expected)
 
-#Work experience
+Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
