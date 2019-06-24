@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-#### 2019
+## 2019
 
 + **Shaohua Guan**, Zhichao Zhang, Hualin Shi **_Critical phenomenon in the flux space of genome-scale metabolic networks_**, Prepare a manuscript.
 
