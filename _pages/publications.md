@@ -5,9 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+#### 2019
 
++ **Shaohua Guan**, Zhichao Zhang, Hualin Shi **_Critical phenomenon in the flux space of genome-scale metabolic networks_**, Prepare a manuscript.
 
-**Shaohua Guan**, Zhichao Zhang, Hualin Shi **_Critical phenomenon in the flux space of genome-scale metabolic networks_**, 2019, Prepare a manuscript.
++ **Shaohua Guan**, Liufang Xu, Qing Zhang, Hualin Shi **_Trade-offs between efficiency and cost in two-component robust regulatory system_**, Submitted to PRE.
 
-**Shaohua Guan**, Liufang Xu, Qing Zhang, Hualin Shi **_Trade-offs between efficiency and cost in two-component robust regulatory system_**, 2019, Submitted to PRE.
++ Zihan Zhang, **Shaohua Guan**, Hualin Shi **_Information geometry in the population dynamics of bacteria_**, Submitted
+
++ Zhichao Zhang, Qing Zhang, **Shaohua Guan**, Hualin Shi **_Cell size linked to growth rate by metabolic balance_**, Submitted
 
