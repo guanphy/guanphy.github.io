@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2019
 
-+ **Shaohua Guan**, Zhichao Zhang, Hualin Shi **_Critical phenomenon in the flux space of genome-scale metabolic networks_**, Prepare a manuscript.
++ **Shaohua Guan**, Zhichao Zhang, Hualin Shi **_Critical phenomena in the flux space of genome-scale metabolic networks_**, Prepare a manuscript.
 
 + **Shaohua Guan**, Liufang Xu, Qing Zhang, Hualin Shi **_Trade-offs between efficiency and cost in two-component robust regulatory system_**, Submitted to PRE.
 
