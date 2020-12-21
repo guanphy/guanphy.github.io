@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, Shandong University, China, 2012
-* Ph.D in Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences, China, 2019 (expected)
+* B.S. in Physics, Shandong University, China, 2008-2012
+* MA.Sc in Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences, China, 2012-2014
+* Ph.D in Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences, China, 2014-2020
     + Advisor: Prof. Hualin Shi
 
 
