@@ -21,6 +21,7 @@ Education
 Work experience
 ======
 * 2020-present: Assistant Research Scientist
+
   Institute of Technology Innovation
   
 
